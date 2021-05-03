@@ -1,4 +1,4 @@
-baseurl = "http://www.example.com" # Hostname (and path) to the root.
+baseurl = "http://jpcerezo.info/esnog26" # Hostname (and path) to the root.
 title = "ESNOG/GORE Reunion 26" # Site title.
 theme = "coder-portfolio" # Set the theme.
 languagecode = "es" # The site’s language code used to generate RSS.

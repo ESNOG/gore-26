@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pots on ESNOG/GORE Reunion 26</title>
@@ -6,21 +6,25 @@
     <description>Recent content in Pots on ESNOG/GORE Reunion 26</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/pots/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.example.com/pots/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>CoderPortfolioの特徴</title>
       <link>http://www.example.com/pots/featuresofcoderportfolio.ja/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>http://www.example.com/pots/featuresofcoderportfolio.ja/</guid>
-      <description>変更点 ShortCode &amp;ldquo;private content&amp;quot;を追加しました 綺麗なサイトを崩さずに、あなたの個人的なコンテンツ（趣味や感情）を簡単に伝えることができます。
-実際の動きについては、&amp;ldquo;テーマデモ&amp;quot;をご覧ください。
+      <description>変更点 ShortCode &amp;ldquo;private content&amp;rdquo;を追加しました 綺麗なサイトを崩さずに、あなたの個人的なコンテンツ（趣味や感情）を簡単に伝えることができます。
+実際の動きについては、&amp;rdquo;テーマデモ&amp;rdquo;をご覧ください。
 リンクに赤い下線のアニメーションを追加しました サイトがよりカラフルに美しくなりました。
 SNSシェアのボタンを追加しました あなたの記事がより影響力を持つようになりました。
 コードのハイライトを変更しました 日本のサービス Qiita のハイライトを参照しました。
 とても優しく美しいハイライトです。
 ヘッダーに影を追加しました より境界線がはっきりしました。
-ShortCode &amp;ldquo;portfolio&amp;quot;を追加しました あなたの作品を綺麗に表示できるようになりました。 実際の動きについては、&amp;ldquo;テーマデモ&amp;quot;をご覧ください。</description>
+ShortCode &amp;ldquo;portfolio&amp;rdquo;を追加しました あなたの作品を綺麗に表示できるようになりました。 実際の動きについては、&amp;rdquo;テーマデモ&amp;rdquo;をご覧ください。</description>
     </item>
     
     <item>
@@ -42,7 +46,7 @@ Changed the color scheme of code highlight.</description>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>http://www.example.com/pots/theme-demo/</guid>
-      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading  This is bold text
+      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading This is bold text
 This is bold text
 This is italic text
 This is italic text
@@ -58,7 +62,7 @@ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>http://www.example.com/pots/theme-demo.ja/</guid>
-      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading  This is bold text
+      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading This is bold text
 This is bold text
 This is italic text
 This is italic text
@@ -109,8 +113,8 @@ Follow the following steps:
       
       <guid>http://www.example.com/pots/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
     </item>
     
   </channel>
