@@ -10,4 +10,4 @@ ESNOG es un foro abierto para el intercambio de información técnica, experienc
 
 ---------------------------
 
-Mas informacion: https://www.esnog.net/about/
+Mas información: https://www.esnog.net/about/

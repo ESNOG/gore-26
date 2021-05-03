@@ -13,4 +13,5 @@ La reunión GORE26 los dias 25 y 26 de Mayo de 2021 será virtual, y tendrá lug
 El enlace se publicará en esta misma página dias antes de la reunión.
 
 Permanezcan atentos a sus pantallas...
+
 ---------------------------
