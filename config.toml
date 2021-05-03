@@ -14,7 +14,7 @@ pygmentsUseClasses = true # new add
 #disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
 
 [params] # theme parameters
-    author = "GORE-26" # Author's name.
+    author = "." # Author's name.
     info = "Reunion no. 26 del Grupo de Operadores de Red Español (ESNOG)" # Author's job title or info.
     description = "GORE 26 website" # Site description.
     keywords = "esnog,gore26,internet" # Site keywords.
