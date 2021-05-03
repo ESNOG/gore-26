@@ -19,11 +19,11 @@ pygmentsUseClasses = true # new add
     description = "GORE 26 website" # Site description.
     keywords = "blog,developer,personal" # Site keywords.
     #avatarurl = "images/avatar.jpg" # Contain the path of the optionnal avatar in the static folder.
-    avatarurl = "img/esnog-logo-squared.png" 
+    avatarurl = "img/esnog-banner.jpg" 
 
-    footercontent = "Enter a text here." # Add footer content
+    footercontent = "Accede a mas detalles del evento en las entradas del menu superior" # Add footer content
     fixedbarContent = "Do you want to know me more private?→" # Add fixedbar content
-    fixedbarContentAfter = "Thank You! Please share it if you like it→" # Add fixedbar content after click
+    fixedbarContentAfter = "Gracias por tu interes. Compartelo si te gusta →" # Add fixedbar content after click
 
     # Whether you want to hide copyright and credits in the footer.
     hideCredits = false
