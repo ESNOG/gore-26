@@ -17,9 +17,9 @@ pygmentsUseClasses = true # new add
     author = "GORE-26" # Author's name.
     info = "Reunion no. 26 del Grupo de Operadores de Red Español (ESNOG)" # Author's job title or info.
     description = "GORE 26 website" # Site description.
-    keywords = "blog,developer,personal" # Site keywords.
+    keywords = "esnog,gore26,internet" # Site keywords.
     #avatarurl = "images/avatar.jpg" # Contain the path of the optionnal avatar in the static folder.
-    avatarurl = "img/esnog-banner.jpg" 
+    avatarurl = "img/esnog26.png" 
 
     footercontent = "Accede a mas detalles del evento en las entradas del menu superior" # Add footer content
     fixedbarContent = "Do you want to know me more private?→" # Add fixedbar content
@@ -64,11 +64,11 @@ pygmentsUseClasses = true # new add
     icon = "fab fa-twitter"
     weight = 2
     url = "https://twitter.com/esnog1/"
-[[params.social]]
-    name = "LinkedIn"
-    icon = "fab fa-linkedin"
-    weight = 3
-    url = "https://www.linkedin.com/in/naro143/"
+#[[params.social]]
+#    name = "LinkedIn"
+#    icon = "fab fa-linkedin"
+#    weight = 3
+#    url = "https://www.linkedin.com/in/naro143/"
 [[params.social]]
     # If icon is not set, Text is displayed.
     name = "Slack"
@@ -81,14 +81,14 @@ pygmentsUseClasses = true # new add
     weight = 1
     url  = "agenda"
 [[menu.main]]
-    name = "Detalles"
+    name = "Detalles y Registro"
     weight = 2
     url  = "posts"
 [[menu.main]]
     name = "Acerca de ESNOG"
     weight = 4
     url = "about"
-[[menu.main]]
-    name = "Registro"
-    weight = 3
-    url = "posts/registro"
+#[[menu.main]]
+#    name = "Registro"
+#    weight = 3
+#    url = "posts/registro"
