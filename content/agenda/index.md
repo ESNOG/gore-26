@@ -8,25 +8,25 @@ draft: true
 
 #### Source of Truth, Christian Adell
 {{% portfolio image="/esnog26/img/ChristianAdell_FULL.jpg" alt="JPC1" %}}
-Presentacion sobre el servicio Nautobot "Network Source of Truth" de Network To Code
+Presentación sobre el servicio "Network Source of Truth", de Network To Code-
 
 [Nautobot](https://www.networktocode.com/nautobot/) page. 
-Descargue la presentacion [AQUI](/archivos/nautobot.pdf)
+Descargue la presentación [AQUI](/archivos/nautobot.pdf)
 
 {{% /portfolio %}}  
 
-#### Does Humour belongs in Music?, Juan P. Cerezo
+#### Does Humour belong in engineering?, Juan P. Cerezo
 {{% portfolio image="/esnog26/img/JPCerezo_FULL.jpg" alt="JPC1" %}}
-Existe el sentido del humor en el mundo de la ingenieria de redes, como se aprecia en otras honorables disciplinas como musica, matematicas, fisica y literatura?
+Existe el sentido del humor en el mundo de la ingeniería de redes, como se aprecia en otras honorables disciplinas como música, matemáticas, física y literatura?
 
-Atencion! Esta charla sera en formato [PechaKucha](https://en.wikipedia.org/wiki/PechaKucha)
+Atención! Esta charla será en formato [PechaKucha](https://en.wikipedia.org/wiki/PechaKucha)
 {{% /portfolio %}}  
 
-#### Discusion Abierta ESGOG
+#### Discusion Abierta de la Asociación ESNOG
 {{% portfolio image="/esnog26/img/esnog-logo-small.jpg" alt="JPC1" %}}
-Ruegos, preguntas, dicusion sobre temas relacionados con ESNOG (aka AOB)
 
-[variables](/layout/variables) page.
+Ruegos, preguntas, discusión sobre temas relacionados con ESNOG (aka AOB)
+
 {{% /portfolio %}}  
 
 ---------------------------
@@ -36,21 +36,21 @@ Ruegos, preguntas, dicusion sobre temas relacionados con ESNOG (aka AOB)
 #### Hunting Network Threat Actors, Carlos Fragoso y David Julián
 {{% portfolio image="/esnog26/img/Fragoso-Julian_FULL.jpg" alt="JPC1" %}}
 
-Descargue la presentacion [AQUI](/archivos/nautobot.pdf)
+Descargue la presentación [AQUI](/archivos/ONE-e.pdf)
 {{% /portfolio %}}  
 
-#### OPEN-NTI-NEW: vagando por las lindes de la telemetria, Juan P. Cerezo
+#### OPEN-NTI-NEW: vagando por las lindes de la telemetría, Juan P. Cerezo
 {{% portfolio image="/esnog26/img/JPCerezo_FULL.jpg" alt="JPC2" %}}
-Implementacion de un caso practico de telemetria de redes utilizando la nueva "paquetizacion" de OPEN-NTI ([open-nti-new](https://github.com/psagrera/open-nti-new)), extendido a otro tipo de collectores, equipamiento y generacion de reportes.
+Implementación de un caso práctico de telemetría de redes utilizando la nueva "paquetización" de OPEN-NTI ([open-nti-new](https://github.com/psagrera/open-nti-new)), extendido a otro tipo de colectores, equipamiento y generación de reportes.
 
-Descargue la presentacion [AQUI](/archivos/ESNOG26-open-nti-new.pdf)
+Descargue la presentación [AQUI](/archivos/ESNOG26-open-nti-new.pdf)
 {{% /portfolio %}}  
 
-#### Discusion Abierta ESGOG
+#### Discusion Abierta de la Asociación ESNOG
 {{% portfolio image="/esnog26/img/esnog-logo-small.jpg" alt="JPC1" %}}
-Ruegos, preguntas, discusion sobre temas relacionados con ESNOG (aka AOB)
 
-[variables](/layout/variables) page.
+Ruegos, preguntas, discusión sobre temas relacionados con ESNOG (aka AOB)
+
 {{% /portfolio %}}  
 
 
