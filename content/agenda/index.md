@@ -34,7 +34,7 @@ Ruegos, preguntas, discusión sobre temas relacionados con ESNOG (aka AOB)
 # Dia 26 MAYO, 2021
 
 #### Hunting Network Threat Actors, Carlos Fragoso y David Julián
-{{% portfolio image="/esnog26/img/Fragoso-Julian_FULL.jpg" alt="JPC1" %}}
+{{% portfolio image="/esnog26/img/Fragoso-Julian_FULL.jpg" alt="One-E" %}}
 
 Descargue la presentación [AQUI](/archivos/ONE-e.pdf)
 {{% /portfolio %}}  
@@ -44,6 +44,12 @@ Descargue la presentación [AQUI](/archivos/ONE-e.pdf)
 Implementación de un caso práctico de telemetría de redes utilizando la nueva "paquetización" de OPEN-NTI ([open-nti-new](https://github.com/psagrera/open-nti-new)), extendido a otro tipo de colectores, equipamiento y generación de reportes.
 
 Descargue la presentación [AQUI](/archivos/ESNOG26-open-nti-new.pdf)
+{{% /portfolio %}}  
+
+#### Lightning talk about Route-Leaks, Doug Madory 
+{{% portfolio image="/esnog26/img/DougMadory_FULL.jpg" alt="DMadory" %}}
+
+Descargue la presentación [AQUI](/archivos/DMadory-ESNOG26.pdf)
 {{% /portfolio %}}  
 
 #### Discusion Abierta de la Asociación ESNOG
