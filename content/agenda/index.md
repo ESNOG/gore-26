@@ -47,7 +47,7 @@ Descargue la presentación [AQUI](/archivos/ESNOG26-open-nti-new.pdf)
 {{% /portfolio %}}  
 
 #### Lightning talk about Route-Leaks, Doug Madory 
-{{% portfolio image="/esnog26/img/DougMadory_FULL.jpg" alt="DMadory" %}}
+{{% portfolio image="/esnog26/img/DougMadory_FULL.jpg" width=128 alt="DMadory" %}}
 
 Descargue la presentación [AQUI](/archivos/DMadory-ESNOG26.pdf)
 {{% /portfolio %}}  
