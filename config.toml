@@ -48,7 +48,7 @@ pygmentsUseClasses = true # new add
     enableLineShare = false     # new add
     enableLinkedInShare = true # new add
 
-    thumbnail = "images/tn.png" # default sns thumbnail
+    thumbnail = "img/esnog26.png" # default sns thumbnail
 
     # Multilanguage mode
     langseparator = "|" # Separates menus from language selectors when site is multilingual.
