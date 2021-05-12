@@ -61,5 +61,6 @@ Descargue la presentación [AQUI](/archivos/DMadory-ESNOG26.pdf)
 
 Ruegos, preguntas, discusión sobre temas relacionados con ESNOG (aka AOB)
 {{% /portfolio %}}  
+
 ---------------------------
 
