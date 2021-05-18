@@ -15,6 +15,14 @@ Descargue la presentación [AQUI](/archivos/nautobot-ESNOG26.pdf)
 {{% /portfolio %}}  
 
 ### 17:45 CEST
+#### Jesus Velez: La charla que tu jefe no quiere que escuches 
+{{% portfolio image="/esnog26/img/JesusVelez_FULL.jpg" alt="JVELEZ" %}}
+Como hacer entrevistas en las GAFA (Google Amazon Facebook Apple)
+
+Descargue la presentación [AQUI](/archivos/JesusVelez-ESNOG26.pdf)
+{{% /portfolio %}}  
+
+### 18:30 CEST
 #### Juan P. Cerezo: Does Humour belong in engineering? (Lightning Talk) 
 {{% portfolio image="/esnog26/img/JPCerezo_FULL.jpg" alt="JPC1" %}}
 Existe el sentido del humor en el mundo de la ingeniería de redes, como se aprecia en otras honorables disciplinas como música, matemáticas, física y literatura?
@@ -22,14 +30,7 @@ Existe el sentido del humor en el mundo de la ingeniería de redes, como se apre
 Atención! Esta charla será en formato [PechaKucha](https://en.wikipedia.org/wiki/PechaKucha)
 {{% /portfolio %}}  
 
-#### Jesus Velez: La charla que tu jefe no quiere que escuches (Lightning Talk)
-{{% portfolio image="/esnog26/img/JesusVelez_FULL.jpg" alt="JVELEZ" %}}
-Como hacer entrevistas en las GAFA (Google Amazon Facebook Apple)
-
-Descargue la presentación [AQUI](/archivos/JesusVelez-ESNOG26.pdf)
-{{% /portfolio %}}  
-
-### 18:15 CEST
+### 18:40 CEST
 #### Todos: Discusion Abierta de la Asociación ESNOG
 {{% portfolio image="/esnog26/img/esnog-logo-small.jpg" alt="JPC1" %}}
 
