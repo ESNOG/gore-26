@@ -4,9 +4,9 @@ date: 2021-04-30T23:06:21+02:00
 draft: true 
 ---
 
-# Dia 25 MAYO, 2021 -- 17:00 - 19:00 CEST
+# Dia 25 MAYO, 2021 
 
-## 17:00 CEST
+### 17:00 CEST
 #### Christian Adell: Source of Truth
 {{% portfolio image="/esnog26/img/ChristianAdell_FULL.jpg" alt="CHADELL" %}}
 Presentación sobre el servicio [Nautobot](https://www.networktocode.com/nautobot/) "Network Source of Truth", de [Network To Code.](https://www.networktocode.com)
@@ -14,6 +14,7 @@ Presentación sobre el servicio [Nautobot](https://www.networktocode.com/nautobo
 Descargue la presentación [AQUI](/archivos/nautobot-ESNOG26.pdf)
 {{% /portfolio %}}  
 
+### 18:00 CEST
 #### Juan P. Cerezo: Does Humour belong in engineering? (Lightning Talk) 
 {{% portfolio image="/esnog26/img/JPCerezo_FULL.jpg" alt="JPC1" %}}
 Existe el sentido del humor en el mundo de la ingeniería de redes, como se aprecia en otras honorables disciplinas como música, matemáticas, física y literatura?
@@ -28,6 +29,7 @@ Como hacer entrevistas en las GAFA (Google Amazon Facebook Apple)
 Descargue la presentación [AQUI](/archivos/JesusVelez-ESNOG26.pdf)
 {{% /portfolio %}}  
 
+### 18:30 CEST
 #### Todos: Discusion Abierta de la Asociación ESNOG
 {{% portfolio image="/esnog26/img/esnog-logo-small.jpg" alt="JPC1" %}}
 
