@@ -57,7 +57,7 @@ Descargue la presentación [AQUI](/archivos/open-nti-new-ESNOG26.pdf)
 {{% /portfolio %}}  
 
 ### 18:15 CEST 
-#### Doug Madory: Route-Leaks (Lightning Talk)
+#### Doug Madory: Analyzing the recent routing leak from India with BGP and Netflow (Lightning Talk)
 {{% portfolio image="/esnog26/img/DougMadory_FULL.jpg" alt="DMadory" %}}
 On 16 April 2021, AS55410 leaked over 30,000 IPv4 BGP routes causing a disruption of the internet for users around the world lasting around 10 minutes. In this lightning talk, I look at impact of the leak using Kentik's netflow data as well as how RPKI may have reduced the leak's propagation.
 
