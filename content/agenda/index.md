@@ -38,16 +38,16 @@ Ruegos, preguntas, discusión sobre temas relacionados con ESNOG (aka AOB)
 
 ---------------------------
 
-# Dia 26 MAYO, 2021 -- 17:00 - 19:00 CEST
+# Dia 26 MAYO, 2021
 
-## 17:00 CEST
+### 17:00 CEST
 #### Carlos Fragoso y David Julián: Hunting Network Threat Actors 
 {{% portfolio image="/esnog26/img/Fragoso-Julian_FULL.jpg" alt="ONE-E" %}}
 
 Descargue la presentación [AQUI](/archivos/ONE-e-ESNOG26.pdf)
 {{% /portfolio %}}  
 
-## 17:45 CEST
+### 17:45 CEST
 #### Juan P. Cerezo: OPEN-NTI-NEW, vagando por las lindes de la telemetría 
 {{% portfolio image="/esnog26/img/JPCerezo_FULL.jpg" alt="JPC2" %}}
 Implementación de un caso práctico de telemetría de redes utilizando la nueva "paquetización" de OPEN-NTI ([open-nti-new](https://github.com/psagrera/open-nti-new)), extendido a otro tipo de colectores, equipamiento y generación de reportes.
@@ -55,7 +55,7 @@ Implementación de un caso práctico de telemetría de redes utilizando la nueva
 Descargue la presentación [AQUI](/archivos/open-nti-new-ESNOG26.pdf)
 {{% /portfolio %}}  
 
-## 18:15 CEST 
+### 18:15 CEST 
 #### Doug Madory: Route-Leaks (Lightning Talk)
 {{% portfolio image="/esnog26/img/DougMadory_FULL.jpg" alt="DMadory" %}}
 On 16 April 2021, AS55410 leaked over 30,000 IPv4 BGP routes causing a disruption of the internet for users around the world lasting around 10 minutes. In this lightning talk, I look at impact of the leak using Kentik's netflow data as well as how RPKI may have reduced the leak's propagation.
@@ -63,7 +63,7 @@ On 16 April 2021, AS55410 leaked over 30,000 IPv4 BGP routes causing a disruptio
 Descargue la presentación [AQUI](/archivos/DMadory-ESNOG26.pdf)
 {{% /portfolio %}}  
 
-## 18:30 CEST 
+### 18:30 CEST 
 #### Todos: (sigue la) Discusion Abierta de la Asociación ESNOG
 {{% portfolio image="/esnog26/img/esnog-logo-small.jpg" alt="JPC1" %}}
 
