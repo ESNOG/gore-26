@@ -45,6 +45,8 @@ Ruegos, preguntas, discusión sobre temas relacionados con ESNOG (aka AOB)
 #### Carlos Fragoso y David Julián: Hunting Network Threat Actors 
 {{% portfolio image="/esnog26/img/Fragoso-Julian_FULL.jpg" alt="ONE-E" %}}
 
+Today's threat landscape is full of different groups, known as threat actors, with different motivations, sponsors, knowledge and tactics. During our presentation we will give an overview of those groups and our speakers will be focusing in a real-world breach handled this year in a big global industrial organization. Our presentation will present some of the TTPs used to compromise their network infrastructure and how Threat Hunting provided us visibility to deliver early detection and quick response during the response and recovery phase of the incident.
+
 Descargue la presentación [AQUI](/archivos/ONE-e-ESNOG26.pdf)
 {{% /portfolio %}}  
 
