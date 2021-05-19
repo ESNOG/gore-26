@@ -7,7 +7,7 @@ draft: true
 # Dia 25 MAYO, 2021 
 
 ### 17:00 CEST
-#### Christian Adell: Source of Truth
+#### Christian Adell: How to handle your circuits proactively
 {{% portfolio image="/esnog26/img/ChristianAdell_FULL.jpg" alt="CHADELL" %}}
 Presentación sobre el servicio [Nautobot](https://www.networktocode.com/nautobot/) "Network Source of Truth", de [Network To Code.](https://www.networktocode.com)
 
