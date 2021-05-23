@@ -1,67 +1,63 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ESNOG/GORE Reunion 26</title>
-    <link>http://www.example.com/tags/</link>
+    <link>http://jpcerezo.info/esnog26/tags/</link>
     <description>Recent content in Tags on ESNOG/GORE Reunion 26</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://www.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://jpcerezo.info/esnog26/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Development</title>
-      <link>http://www.example.com/tags/development/</link>
+      <title>development</title>
+      <link>http://jpcerezo.info/esnog26/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/development/</guid>
+      <guid>http://jpcerezo.info/esnog26/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Go</title>
-      <link>http://www.example.com/tags/go/</link>
+      <title>go</title>
+      <link>http://jpcerezo.info/esnog26/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/go/</guid>
+      <guid>http://jpcerezo.info/esnog26/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Golang</title>
-      <link>http://www.example.com/tags/golang/</link>
+      <title>golang</title>
+      <link>http://jpcerezo.info/esnog26/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/golang/</guid>
+      <guid>http://jpcerezo.info/esnog26/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hugo</title>
-      <link>http://www.example.com/tags/hugo/</link>
+      <title>hugo</title>
+      <link>http://jpcerezo.info/esnog26/tags/hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/hugo/</guid>
+      <guid>http://jpcerezo.info/esnog26/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Templates</title>
-      <link>http://www.example.com/tags/templates/</link>
+      <title>templates</title>
+      <link>http://jpcerezo.info/esnog26/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/templates/</guid>
+      <guid>http://jpcerezo.info/esnog26/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Themes</title>
-      <link>http://www.example.com/tags/themes/</link>
+      <title>themes</title>
+      <link>http://jpcerezo.info/esnog26/tags/themes/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/themes/</guid>
+      <guid>http://jpcerezo.info/esnog26/tags/themes/</guid>
       <description></description>
     </item>
     

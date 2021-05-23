@@ -1,139 +1,81 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>http://www.example.com/posts/gore26-link/</loc>
-    <lastmod>2021-04-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/pots/featuresofcoderportfolio.ja/</loc>
+    <loc>http://jpcerezo.info/esnog26/</loc>
+    <lastmod>2021-05-03T11:47:13+02:00</lastmod>
+  </url><url>
+    <loc>http://jpcerezo.info/esnog26/posts/</loc>
+    <lastmod>2021-05-03T11:47:13+02:00</lastmod>
+  </url><url>
+    <loc>http://jpcerezo.info/esnog26/posts/registro/</loc>
+    <lastmod>2021-05-03T11:47:13+02:00</lastmod>
+  </url><url>
+    <loc>http://jpcerezo.info/esnog26/posts/gore26-link/</loc>
+    <lastmod>2021-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jpcerezo.info/esnog26/agenda/</loc>
+    <lastmod>2021-04-30T23:06:21+02:00</lastmod>
+  </url><url>
+    <loc>http://jpcerezo.info/esnog26/pots/featuresofcoderportfolio.ja/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/pots/featuresofcoderportfolio/</loc>
+  </url><url>
+    <loc>http://jpcerezo.info/esnog26/pots/featuresofcoderportfolio/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/pots/theme-demo/</loc>
+  </url><url>
+    <loc>http://jpcerezo.info/esnog26/pots/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/pots/theme-demo.ja/</loc>
+  </url><url>
+    <loc>http://jpcerezo.info/esnog26/pots/theme-demo/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/pots/creating-a-new-theme/</loc>
+  </url><url>
+    <loc>http://jpcerezo.info/esnog26/pots/theme-demo.ja/</loc>
+    <lastmod>2018-08-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jpcerezo.info/esnog26/pots/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/pots/hugo-template-primer/</loc>
+  </url><url>
+    <loc>http://jpcerezo.info/esnog26/pots/hugo-template-primer/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/pots/hugoisforlovers/</loc>
+  </url><url>
+    <loc>http://jpcerezo.info/esnog26/categories/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/pots/migrate-from-jekyll/</loc>
+  </url><url>
+    <loc>http://jpcerezo.info/esnog26/categories/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jpcerezo.info/esnog26/tags/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jpcerezo.info/esnog26/pots/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jpcerezo.info/esnog26/tags/go/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jpcerezo.info/esnog26/tags/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jpcerezo.info/esnog26/categories/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jpcerezo.info/esnog26/tags/hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jpcerezo.info/esnog26/tags/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jpcerezo.info/esnog26/tags/templates/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jpcerezo.info/esnog26/tags/themes/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jpcerezo.info/esnog26/pots/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jpcerezo.info/esnog26/about/</loc>
+  </url><url>
+    <loc>http://jpcerezo.info/esnog26/contact/</loc>
   </url>
-  
-  <url>
-    <loc>http://www.example.com/about/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/categories/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/</loc>
-    <lastmod>2021-04-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/posts/</loc>
-    <lastmod>2021-04-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/pots/</loc>
-    <lastmod>2018-08-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/projects/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/tags/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
 </urlset>
