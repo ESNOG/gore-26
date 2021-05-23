@@ -15,14 +15,14 @@ Descargue la presentación [AQUI](/archivos/nautobot-ESNOG26.pdf)
 {{% /portfolio %}}  
 
 ### 17:45 CEST
-#### Jesus Velez: La charla que tu jefe no quiere que escuches 
+#### Jesus Velez: La charla que tu jefe no quiere que escuches (Lightning Talk)
 {{% portfolio image="/esnog26/img/JesusVelez_FULL.jpg" alt="JVELEZ" %}}
 Como hacer entrevistas en las GAFA (Google Amazon Facebook Apple)
 
 Descargue la presentación [AQUI](/archivos/JesusVelez-ESNOG26.pdf)
 {{% /portfolio %}}  
 
-### 18:30 CEST
+### 18:15 CEST
 #### Juan P. Cerezo: Does Humour belong in engineering? (Lightning Talk) 
 {{% portfolio image="/esnog26/img/JPCerezo_FULL.jpg" alt="JPC1" %}}
 Existe el sentido del humor en el mundo de la ingeniería de redes, como se aprecia en otras honorables disciplinas como música, matemáticas, física y literatura?
@@ -30,11 +30,20 @@ Existe el sentido del humor en el mundo de la ingeniería de redes, como se apre
 Atención! Esta charla será en formato [PechaKucha](https://en.wikipedia.org/wiki/PechaKucha)
 {{% /portfolio %}}  
 
+### 18:30 CEST
+#### Ronda de charlas de Puntos de intercambio de trafico (IX) 
+{{% portfolio image="/esnog26/img/IX-talkers.jpg" alt="IXTALK" %}}
+Actualizaciones de los puntos neutros españoles (5 min. cada uno):
+- Maria Isabel Gandia (CATNIX)
+- Javier Achirica (ESPANIX)
+- Marcos Sanz (DECIX)
+{{% /portfolio %}}  
+
 ### 18:40 CEST
 #### Todos: Discusion Abierta de la Asociación ESNOG
 {{% portfolio image="/esnog26/img/esnog-logo-small.jpg" alt="JPC1" %}}
 
-Ruegos, preguntas, discusión sobre temas relacionados con ESNOG (aka AOB)
+Ruegos, preguntas, discusión sobre temas relacionados con ESNOG
 {{% /portfolio %}}  
 
 ---------------------------
