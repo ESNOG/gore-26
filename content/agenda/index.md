@@ -19,7 +19,7 @@ Presentación sobre el servicio [Nautobot](https://www.networktocode.com/nautobo
 {{% portfolio image="/esnog26/img/JesusVelez_FULL.jpg" alt="JVELEZ" %}}
 Como hacer entrevistas en las GAFA (Google Amazon Facebook Apple)
 
-([PRESENTACION](/esnog26/archivos/JesusVelez-ESNOG26.pdf))
+([PRESENTACION](/esnog26/archivos/ESNOG26_FAANG.pdf))
 {{% /portfolio %}}  
 
 ### 18:15 CEST
@@ -74,7 +74,7 @@ Implementación de un caso práctico de telemetría de redes utilizando la nueva
 {{% portfolio image="/esnog26/img/DougMadory_FULL.jpg" alt="DMadory" %}}
 On 16 April 2021, AS55410 leaked over 30,000 IPv4 BGP routes causing a disruption of the internet for users around the world lasting around 10 minutes. In this lightning talk, I look at impact of the leak using Kentik's netflow data as well as how RPKI may have reduced the leak's propagation.
 
-([PRESENTACION](/esnog26/archivos/DMadory-ESNOG26.pdf))
+([PRESENTACION](/esnog26/archivos/dougmadory_BGP_leak_ESNOG.pdf))
 {{% /portfolio %}}  
 
 ### 18:30 CEST 
